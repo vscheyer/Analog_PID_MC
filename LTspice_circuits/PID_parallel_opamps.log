@@ -1,0 +1,21 @@
+Circuit: * C:\Users\vscheyer\Documents\Classes_3rd_Semester\QEA\Analog_PID_MC\LTspice_circuits\PID_parallel_opamps - Copy.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Oct 20 17:41:48 2019
+Total elapsed time: 1.738 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 169795
+traniter = 169792
+tranpoints = 68288
+accept = 46926
+rejected = 21362
+matrix size = 36
+fillins = 22
+solver = Normal
+Matrix Compiler1: 3.06 KB object code size  0.8/0.4/[0.2]
+Matrix Compiler2: 4.21 KB object code size  0.4/0.5/[0.3]
+
